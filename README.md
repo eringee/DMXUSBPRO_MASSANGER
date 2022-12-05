@@ -4,7 +4,7 @@
 
  For those of you mourning the death of the MaxMSP DMX Pro objects, I humbly offer this elegant patch as an alternative that functioned for me in Max 7. 
  
- This code is based off of (<https://www.example.com/>"this YouTube tutorial") by YouTube user Programming for People, however I did have to modify his instructions because they didn't work for me right away.
+ This code is based off of <a href="https://youtu.be/dAaZb8M-fpw?t=798"/>this YouTube tutorial</a> by YouTube user <a href="https://www.youtube.com/@Programmingforpeople">Programming for People</a>, however I did have to modify his instructions because they didn't work for me right away.
  
  For added ease of use, I combined this code with Thomas Ouellet Frederick's MaxMSP Massanger object, modified so as to throttle the dataflow to an amount that the DMXUSBPro can normally handle.
  
