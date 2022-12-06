@@ -4,6 +4,10 @@
 
  For those of you mourning the death of the MaxMSP DMX Pro objects, I humbly offer this elegant patch as an alternative that functioned for me in Max 7. 
  
+This code requires no libraries. It should work in any version of Max/MSP.
+
+This being said, I have only ever tested it with the Enttec DMXUSBPro Mk1. Here is the link to buy this product: https://www.enttec.com/product/lighting-communication-protocols/dmx512/dmx-usb-pro/
+ 
  This code is based off of <a href="https://youtu.be/dAaZb8M-fpw?t=798"/>this YouTube tutorial</a> by YouTube user <a href="https://www.youtube.com/@Programmingforpeople">Programming for People</a>, however I did have to modify his instructions because they didn't work for me right away.
  
  For added ease of use, I combined this code with <a href="https://github.com/thomasfredericks"/>Thomas Ouellet Frederick's</a> MaxMSP Massanger object, modified so as to throttle the dataflow to an amount that the DMXUSBPro can normally handle.
